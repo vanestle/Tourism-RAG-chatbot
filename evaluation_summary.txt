@@ -1,0 +1,11 @@
+RAG Tourism Recommendation System - Evaluation Summary
+============================================================
+
+avg_precision_at_5: 0.6000
+avg_ndcg_at_5: 0.8728
+avg_mrr: 0.7500
+std_precision_at_5: 0.4660
+std_ndcg_at_5: 0.3527
+std_mrr: 0.4629
+num_test_queries: 8
+k_value: 5
